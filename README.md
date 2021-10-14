@@ -10,6 +10,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giussepped&theme=calm&layout=compact&langs_count=6&hide_title=true" />
     </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=giussepped&theme=calm&layout=compact&langs_count=6&hide_title=true" />
+    </a>
 </p>
 <p align="center">
     <h2 align="center"></h2>
