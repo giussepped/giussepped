@@ -28,6 +28,6 @@
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-    <img alt="NX" src="https://img.shields.io/badge/-Nx_Workspaces-143055?style=flat-square&logo=nx&logoColor=white" />
+    <img alt="NX" src="https://img.shields.io/badge/-Nx-143055?style=flat-square&logo=nx&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
