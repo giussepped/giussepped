@@ -8,7 +8,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giussepped&theme=calm&layout=compact&langs_count=6&hide_title=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=giussepped&theme=calm&layout=compact&langs_count=6&hide_title=true" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=giussepped&theme=calm&layout=compact&langs_count=6&hide_title=true&v=2" />
     </a>
 </p>
 <p align="center">
